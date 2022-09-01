@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @MightyMoitzbert
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MightyMoitzbert/MightyMoitzbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+d
+- 👀 I’m a free time DayZ Modder
+- 🌱 I’m currently learning scripts and configs for this game
+- 📫 You can reach me out on discord, DMs are open
